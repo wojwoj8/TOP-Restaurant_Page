@@ -1,0 +1,25 @@
+{
+  "name": "top-restaurant_page",
+  "version": "1.0.0",
+  "description": "Restaurant page with npm and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojwoj8/TOP-Restaurant_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojwoj8/TOP-Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/wojwoj8/TOP-Restaurant_Page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
